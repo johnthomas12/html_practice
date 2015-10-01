@@ -1,3 +1,36 @@
+
+
+
+
+body {
+background-image: url('grey.png');
+}
+
+.board {
+margin: 36px auto;
+border: thick solid teal;
+}
+
+
+.rank {
+margin: 1px;
+border: thin solid white;
+}
+
+
+.square {
+height: 72px;
+width: 72px;
+font-size: 48px;
+text-align: center;
+color: #FF9933;
+
+}
+
+.dark_square {
+background: teal;
+}
+
 /*
 
 Some references you may find useful:

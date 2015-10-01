@@ -1,0 +1,53 @@
+
+
+.canvas {
+width: 100%;
+}
+
+
+.canvas_section {
+border: thin black solid;
+padding: 0 10px;
+}
+
+.wide_input {
+width: 90%;
+}
+
+.sublist {
+font-style: italic;
+}
+
+p{
+  margin: 0;
+}
+
+ol {
+  margin: 0;
+  padding:10px;
+}
+
+ul {
+  text-align: left;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+body {
+  font-size: 6pt;
+  font-family: Arial;
+}
+
+h3 {
+  text-transform: uppercase;
+  margin-bottom: 0;
+  font-size: 6pt;
+}
+
+h4 {
+  margin: 0;
+}
+
+
